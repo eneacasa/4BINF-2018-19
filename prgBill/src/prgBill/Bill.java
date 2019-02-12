@@ -4,7 +4,7 @@ import java.security.InvalidParameterException;
 
 /*
  * 
- * @author 4B INFO v.def
+ * @author 4B INFO v.1
  *
 */
 
